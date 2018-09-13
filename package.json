@@ -1,0 +1,19 @@
+{
+  "name": "luhn",
+  "version": "1.0.0",
+  "description": "Luhn algorithme in TDD",
+  "main": "luhn.js",
+  "scripts": {
+    "test": "mocha tests/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "luhn"
+  },
+  "keywords": [
+    "Luhn",
+    "tdd"
+  ],
+  "author": "Tanguy Charon",
+  "license": "ISC"
+}
